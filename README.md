@@ -3,6 +3,8 @@ A blog website where you can write your own blogs and a page designed to give yo
 
 This Project consists of NodeJS + Express
 
+CSS
+
 Connected with MongoDB using mongoose
 
 Getting data from RapidAPI using AXIOS
